@@ -17,5 +17,5 @@
     "baseUrl": "src"
   },
   "include": ["src"],
-  "exclude": ["**/*stories.tsx"]
+  "exclude": ["**/*stories.tsx", "src/shared-ui"]
 }
